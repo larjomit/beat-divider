@@ -5,7 +5,7 @@ public class Test {
 		while(2 == 2) {
 			String x = "JOO no EhHeHe Blaa";
 			System.out.println("Ei näin");
-	        System.out.println("No eipä niin");
+			System.out.println("No eipä asasassa niin");
 	        // moro
 			return "Köh öööh köh oh";
 		}
